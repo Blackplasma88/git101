@@ -1,0 +1,3 @@
+hello git
+touch สร้างไฟล์
+echo เขียนทับ

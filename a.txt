@@ -1,9 +1,3 @@
 hello git
 touch สร้างไฟล์
 echo เขียนทับ
-cat  ใช้อ่านไฟล์
-
-ทุกคำสั่งการใช้งาน  git จะขึ้นต้นด้วย  git
-
-LF > line feed 
-
